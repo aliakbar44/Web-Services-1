@@ -1,0 +1,40 @@
+{
+  "name": "eq4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "balanced-match": "^1.0.0",
+    "brace-expansion": "^1.1.11",
+    "browser-stdout": "^1.3.1",
+    "commander": "^2.18.0",
+    "concat-map": "0.0.1",
+    "debug": "^4.0.1",
+    "diff": "^3.5.0",
+    "escape-string-regexp": "^1.0.5",
+    "fs.realpath": "^1.0.0",
+    "glob": "^7.1.3",
+    "growl": "^1.10.5",
+    "has-flag": "^3.0.0",
+    "he": "^1.1.1",
+    "inflight": "^1.0.6",
+    "inherits": "^2.0.3",
+    "minimatch": "^3.0.4",
+    "minimist": "^1.2.0",
+    "mkdirp": "^0.5.1",
+    "mocha": "^5.2.0",
+    "ms": "^2.1.1",
+    "once": "^1.4.0",
+    "path-is-absolute": "^1.0.1",
+    "supports-color": "^5.5.0",
+    "wrappy": "^1.0.2"
+  }
+}
